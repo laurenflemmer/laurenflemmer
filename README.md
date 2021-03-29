@@ -1,16 +1,16 @@
-### Hi there 👋
+### hi, welcome! ❣️
 
-<!--
-**laurenflemmer/laurenflemmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱  in progress: b.s. statistics @ the university of california, riverside
+- ✨ currently doing: undergraduate research, data analytics @ ucr student voice committee
+- 🍄 leading: exec. board @ ucr women in computing + highlander statistics society
+---
+💌 [my site][website] **|** 
+👩🏻‍💻 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[website]: https://flemmerlauren.wixsite.com/personal
+[linkedin]: https://www.linkedin.com/in/lauren-flemmer/
+
+
+

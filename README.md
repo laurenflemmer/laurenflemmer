@@ -5,6 +5,10 @@
 - ✨ currently doing: undergraduate research, data analytics @ ucr student voice committee
 - 🍄 leading: exec. board @ ucr women in computing + highlander statistics society
 ---
+
+
+#### you should click these!
+
 💌 [my site][website] **|** 
 👩🏻‍💻 [linkedin][linkedin]
 

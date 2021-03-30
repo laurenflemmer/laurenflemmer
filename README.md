@@ -2,7 +2,7 @@
 
 
 - 🌱  in progress: b.s. statistics @ the university of california, riverside
-- ✨ currently doing: undergraduate research, data analytics @ ucr student voice committee
+- ✨ currently doing: undergraduate research, data analytics for ucr's student voice committee
 - 🍄 leading: exec. board @ ucr women in computing + highlander statistics society
 ---
 

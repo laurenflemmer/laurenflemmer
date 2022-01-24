@@ -2,7 +2,7 @@
 
 - 🍄 currently: **data analytics** for asucr's student voice committee
 - 🌱  in progress: **b.s. statistics** @ the university of california, riverside
-- ✨ previously: **undergraduate research**, **intern** at oak ridge national laboratory
+- ✨ previously: **undergraduate research** at uc riverside, **intern** at oak ridge national laboratory
 ---
 
 

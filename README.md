@@ -1,8 +1,8 @@
 ### hi, welcome! ❣️
 
-- 🍄 currently: Pathways to Computing **intern** @ **Oak Ridge National Laboratory**
+- 🍄 currently: **data analytics** for asucr's student voice committee
 - 🌱  in progress: **b.s. statistics** @ the university of california, riverside
-- ✨ what else i'm doing: **undergraduate research**, **data analytics** for asucr's student voice committee
+- ✨ previously: **undergraduate research**, **intern** at oak ridge national laboratory
 ---
 
 

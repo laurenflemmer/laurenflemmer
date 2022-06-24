@@ -1,12 +1,5 @@
 ### hi, welcome! ❣️
 
-- 🍄 currently: **data analytics** for asucr's student voice committee
-- 🌱  in progress: **b.s. statistics** @ the university of california, riverside
-- ✨ previously: **undergraduate research** at uc riverside, **intern** at oak ridge national laboratory
----
-
-
-
 #### you should click these!
 
 💌 [my site][website] **|** 

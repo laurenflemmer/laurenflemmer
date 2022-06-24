@@ -1,7 +1,5 @@
 ### hi, welcome! ❣️
 
-#### you should click these!
-
 💌 [my site][website] **|** 
 👩🏻‍💻 [linkedin][linkedin]
 
